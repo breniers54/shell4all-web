@@ -1,0 +1,23 @@
+{
+    "Windows - Fichiers": {
+        "dir": "Liste le contenu du répertoire courant.",
+        "type": "Affiche le contenu d'un fichier texte.",
+        "attrib": "Affiche ou modifie les attributs d'un fichier.",
+        "ren": "Renomme un fichier ou un dossier.",
+        "xcopy": "Copie des fichiers et des arborescences de répertoires."
+    },
+    "Windows - Réseau": {
+        "ipconfig": "Affiche la configuration IP complète.",
+        "ping": "Envoie des requêtes ECHO à une adresse pour tester la connexion.",
+        "netstat": "Affiche les connexions réseau et les ports ouverts.",
+        "tracert": "Trace le chemin des paquets vers une destination.",
+        "getmac": "Affiche l'adresse physique (MAC) de la carte réseau."
+    },
+    "Windows - Système": {
+        "tasklist": "Liste tous les processus actifs.",
+        "systeminfo": "Donne les détails techniques du PC (RAM, processeur, etc.).",
+        "ver": "Affiche la version de Windows installée.",
+        "sfc /scannow": "Vérifie et répare les fichiers système corrompus.",
+        "chkdsk": "Vérifie l'état d'un disque dur et répare les erreurs."
+    }
+}
